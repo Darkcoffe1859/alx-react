@@ -1,0 +1,15 @@
+/* Header styles */
+header {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+img {
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: #333;
+}
+
